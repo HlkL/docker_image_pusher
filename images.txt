@@ -5,5 +5,6 @@ nginx
 redis
 openjdk:11
 savatar101/omniparse:0.1
+puffer0315/libretranslate-openresty
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
